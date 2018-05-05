@@ -87,8 +87,9 @@
 
 
 /*footer*/
-.footer{
+.footer {
 	padding-bottom: 3rem;
+	border-top: 3px dotted #dadada;
 }
 
 /*Animation rainbow*/
